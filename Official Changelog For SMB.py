@@ -16,9 +16,9 @@
 9/24/22 Added cooldown to suggest, added botinfo command.
 10/24/22 Added pms command, tuneups.
 11/7/22 Added viewable messagecount, made moderation commands give more Info.
-11/8/22 Adding faulty bump reminder.
-11/9/22 Finished adding fixes to mod commands.
-11/10/22 Finished making leaderboard command neat.
+11/8/22 _Adding faulty bump reminder.
+11/9/22 _Finished adding fixes to mod commands.
+11/10/22 _Finished making leaderboard command neat.
 11/10/22 "8:03pm EST" Made suggestion allowed _for owner use.
 11/10/22 "8:50pm EST" Replaced code With botinfo.
 11/10/22 "11:07pm EST" Added Total Deleted Messages leaderboard.
