@@ -24,3 +24,4 @@
 11/10/22 "11:07pm EST" #Added Total Deleted Messages leaderboard.
 11/11/22 "9:15am EST" #Added runtime command.
 11/11/22 "10:28am EST" #Made Help command more neat.
+11/11/22 "7:19pm EST" #Added warn command and /swarns.
