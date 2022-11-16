@@ -27,3 +27,4 @@
 11/11/22 "7:19pm EST" #Added warn command and /swarns.
 11/12/22 "1:18pm EST" #Added reactions to suggetions.
 11/13/22 "2:16am EST" #Made /whois more neat.
+11/15/22 "7:01pm EST" #Changed embed colors.
