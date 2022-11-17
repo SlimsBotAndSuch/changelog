@@ -29,3 +29,4 @@
 11/13/22 "2:16am EST" #Made /whois more neat.
 11/14/22 #Added Partners Commands.
 11/15/22 "7:01pm EST" #Changed embed colors.
+11/17/22 "6:35pm EST" #Removed /embedcreate, fixed 8ball not allowing mentions.
