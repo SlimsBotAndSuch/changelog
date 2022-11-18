@@ -30,3 +30,4 @@
 11/14/22 #Added Partners Commands.
 11/15/22 "7:01pm EST" #Changed embed colors.
 11/17/22 "6:35pm EST" #Removed /embedcreate, fixed 8ball not allowing mentions.
+11/18/22 "6:22pm EST" #Added runtime to /botinfo.
