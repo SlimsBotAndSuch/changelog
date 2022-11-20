@@ -32,3 +32,4 @@
 11/17/22 "6:35pm EST" #Removed /embedcreate, fixed 8ball not allowing mentions.
 11/18/22 "6:22pm EST" #Added runtime to /botinfo.
 11/19/22 "11:43pm EST" #Added permission error for /purge
+11/20/22 "4:40am EST" #Added /minesweeper
