@@ -10,7 +10,7 @@
 9/9/22 "5:54pm EST" #Added _8ball command.
 9/10/22 #Bot now has a status.
 9/10/22 "5:01pm EST" #Added suggest command.
-9/15/22 "4:58pm EST" #Added buttons to _help command.
+9/15/22 "4:58pm EST" #Added buttons to /help command.
 9/15/22 "9:50pm EST" #Added dicerole And creatembed command.
 9/23/22 #Added simpdetector command, added to whois command.
 9/24/22 #Added cooldown to suggest, added botinfo command.
@@ -33,3 +33,4 @@
 11/18/22 "6:22pm EST" #Added runtime to /botinfo.
 11/19/22 "11:43pm EST" #Added permission error for /purge
 11/20/22 "4:40am EST" #Added /minesweeper
+11/29/22 "3:20pm EST" #Added Partner
