@@ -35,3 +35,4 @@
 11/20/22 "4:40am EST" #Added /minesweeper.
 11/29/22 "3:20pm EST" #Added Partner.
 11/30/22 "2:35pm EST" #Added /esay.
+12/7/22 "4:31pm EST" #Added /embedcreate, /hextest.
