@@ -36,3 +36,4 @@
 11/29/22 "3:20pm EST" #Added Partner.
 11/30/22 "2:35pm EST" #Added /esay.
 12/7/22 "4:31pm EST" #Added /embedcreate, /hextest.
+12/12/22 "12:13pm EST" #Added /slowmode, /deafen, /undeafen
